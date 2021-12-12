@@ -35,9 +35,6 @@
   {{ csrf_field() }}
   <p>
     <input type="text" name="answer">
-    @if ($errors->has('answer'))
-    <span>{{ $errors->first('answer') }}</span>
-    @endif
   </p>
   <p>
     <input type="submit" value="回答する" class="btn btn-success btn btn-sm">
