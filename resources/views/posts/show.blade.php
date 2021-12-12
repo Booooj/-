@@ -20,6 +20,7 @@
     {{ $answer->answer }}
 </div>
 </div>
+@if ($post->user_id == Auth::id())
   <p>
     <form method="POST" action="{{ action('AnswersController@destroy', [$post, $answer]) }}" id="form_{{ $answer->id }}">
         @csrf
@@ -27,6 +28,7 @@
         <button class="btn btn-warning btn-sm">削除</button>
     </form>
 </p>
+@endif
   @empty
   <li>まだ回答はありません。</li>
   @endforelse
