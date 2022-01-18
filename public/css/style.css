@@ -1,3 +1,16 @@
+@media (min-width: 0px) and (max-width: 480px) {
+    .text{
+    text-align: center;
+}
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+    .text{
+    text-align: center;
+}
+}
+
+@media (min-width: 1024px) {
 .text{
     text-align: center;
+}
 }
