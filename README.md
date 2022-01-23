@@ -1,4 +1,4 @@
-質問投稿機能と回答機能があります。
+ログイン機能、質問投稿機能と回答機能があります。
 
 ![Laravel](https://user-images.githubusercontent.com/90837337/150681915-a44af265-3962-415b-a4e1-07a58568a001.jpeg)
 
