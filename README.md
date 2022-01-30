@@ -1,6 +1,6 @@
 ログイン機能、質問投稿機能と回答機能があります。
 
-![Laravel](https://user-images.githubusercontent.com/90837337/150681915-a44af265-3962-415b-a4e1-07a58568a001.jpeg)
+![質問投稿サイト](https://user-images.githubusercontent.com/90837337/151697222-df19d2f8-da79-47ed-b7d8-bcb08f86226f.jpeg)
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
